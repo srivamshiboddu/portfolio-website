@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans&family=Fira+Code&family=Fuggles&family=Montserrat:ital,wght@1,600&family=Mooli&family=Ubuntu:ital,wght@1,500&display=swap');@import url('https://fonts.googleapis.com/css2?family=Encode+Sans&family=Fira+Code&family=Fuggles&family=Montserrat:wght@200&family=Mooli&family=Ubuntu:ital,wght@1,500&display=swap');
+body {
+    margin: 0;}
+.nav-bar{
+    display: flex;
+    flex-direction:column;
+}
+.nav-bar-left{
+    padding-left: 20px;
+}
+.button{
+    padding: 10px;
+}
+.body-part{
+    align-items: center;
+    text-align: center;
+}
+.paragraph-part{
+    font-family: 'Encode Sans', sans-serif;
+    text-align: justify;
+    padding-left: 20px;
+
+}
+.paragraph{
+    font-size: 15px;
+    font-weight: 20px;
+}
+.conatcts{
+    text-align: center;
+}
+.contact-info{
+    font-family: 'Encode Sans', sans-serif;
+}
+.aq{
+    font-family: 'Montserrat', sans-serif;
+}
+.social-icon-img {
+    height: 35px;
+    padding: 5px;
+}
+.logo-image{
+    height: 50vh;
+    width: 25vw;
+}
+.nav-bar-right{
+    padding-left: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.about-us{
+    padding-left: 10px;
+    text-align: justify;
+    font-family: 'Ubuntu', sans-serif;
+}
+.about-us-para{
+    font-family: 'Encode Sans', sans-serif;
+}
+.skills-card{
+    display: flex;
+    flex-direction:row;
+    padding: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.skills-card-items{
+    padding: 10px;
+    text-align: justify;
+    align-items: center;
+    font-family: 'Encode Sans', sans-serif;
+}
+.skills-card1{
+    font-family: 'Ubuntu', sans-serif;
+padding-left: 20px;
+}
